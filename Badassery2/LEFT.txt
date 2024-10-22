@@ -1,0 +1,20 @@
+LEFT
+
+M+ TO 12 V +		RED
+M- TO GND		BLACK
+GND			BLUE
+VCC			GREEN
+B	14		YELLOW
+A			WHITE
+
+
+
+
+RIGHT
+
+M+
+M-
+GND
+VCC
+B
+A
